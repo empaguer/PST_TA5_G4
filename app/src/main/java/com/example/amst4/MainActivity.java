@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         String nom = et1.getText().toString();
         String matric = et2.getText().toString();
         if(!nom.isEmpty() && !matric.isEmpty()){
-            Intent i = new Intent(this, VentanaHome.class );
+            Intent i = new Intent(this, Home.class );
             i.putExtra("usuario", nom);
             i.putExtra("contraseña", matric);
             startActivity(i);

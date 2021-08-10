@@ -3,4 +3,8 @@
     <string name="iniciar">Iniciar Sesión</string>
     <string name="usuario">Usuario</string>
     <string name="contraseña">Contraseña</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Categorias</string>
+    <string name="title_notifications">Perfil</string>
 </resources>
